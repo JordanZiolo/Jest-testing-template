@@ -13,3 +13,4 @@ function ProfileCard({ name, age, bio }) {
 }
 
 export default ProfileCard;
+
